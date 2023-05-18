@@ -28,4 +28,8 @@ public class Book {
         String speshialNameBook = " Название книги - " + this.nameBook;
         return speshialNameBook;
     }
+    @Override
+    public String toString() {
+        return author.toString();
+    }
 }
