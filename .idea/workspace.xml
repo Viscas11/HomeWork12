@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e6549ad-76e3-43f3-a309-422c68f28bd7" name="Changes" comment="Add from last HomeWork">
+    <list default="true" id="0e6549ad-76e3-43f3-a309-422c68f28bd7" name="Changes" comment="Add Metod toString, equals, hashCode to Author">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork12/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12/Author.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork12/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HomeWork12/HomeWork12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HomeWork12/HomeWork12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HomeWork12/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1684355645426</updated>
       <workItem from="1684355646477" duration="1220000" />
-      <workItem from="1684425545441" duration="5195000" />
+      <workItem from="1684425545441" duration="6986000" />
     </task>
     <task id="LOCAL-00001" summary="Первый коммит">
       <created>1684356066609</created>
@@ -75,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684356424913</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Metod toString, equals, hashCode to Author">
+      <created>1684431463499</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1684431463499</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +89,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Первый коммит" />
     <MESSAGE value="Add from last HomeWork" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add from last HomeWork" />
+    <MESSAGE value="Add Metod toString, equals, hashCode to Author" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Metod toString, equals, hashCode to Author" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/HomeWork12/HomeWork12.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

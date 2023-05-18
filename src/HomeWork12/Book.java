@@ -28,6 +28,26 @@ public class Book {
         String speshialNameBook = " Название книги - " + this.nameBook;
         return speshialNameBook;
     }
+
+    @Override
+    public  boolean equals(Object name) {
+        if (this == name) return true;
+        if (name == null || getClass() !=
+                name.getClass()) return false;
+        Book tempBook = (Book) name;
+
+        if (nameBook == tempBook.nameBook && name ==
+                tempBook.nameBook) return true;
+        return false;
+    }
+
+    @Override
+    public int hashCode() {
+        int result = nameBook != null ? nameBook.hashCode() : 0;
+        result = 11 * result;
+        return result;
+    }
+
     @Override
     public String toString() {
         return author.toString();

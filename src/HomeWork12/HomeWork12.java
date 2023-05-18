@@ -16,6 +16,8 @@ public class HomeWork12 {
         printBook(vedmak);
         printBook(soyer);
 
+        System.out.println(sapkovski.equals(vedmak));
+        System.out.println(sapkovski.equals(soyer));
         System.out.println(sapkovski.equals(tven));
         System.out.println(sapkovski.equals(sapkovski2));
     }
